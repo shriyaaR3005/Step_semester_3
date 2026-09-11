@@ -81,12 +81,14 @@ Q5: Used instanceof and type casting to distinguish card and cash payments and c
 **WEEK-5**
 Access Modifiers, Encapsulation, Constructor Validation, JavaBeans, Constructor Chaining, Immutability, Defensive Copying, instanceof, Inheritance
 
+
 **practice code**
 Q1 — Implemented Java access-modifier rules using private, default, protected, and public, and classified access attempts based on the accessor context.
 Q2 — Extended access checking to cross-package inheritance and handled the difference between subclass-type and parent-type references for protected access.
 Q3 — Used private fields and constructor validation to maintain a valid seat count, with safe booking and cancellation operations that prevent invalid state changes.
 Q4 — Created a JavaBean using getX(), setX(), and isX() conventions, applied constructor chaining with this(), and implemented a write-only OTP property.
 Q5 — Implemented immutable receipt objects using final fields and defensive copying, used a with-style method for updates, and processed regular/group receipts safely using instanceof and null handling.
+
 **Assignment code**
 Q1: Implemented access-level classification and grouped allowed/denied results separately for each modifier.
 Q2: Implemented protected subclass access and used early-exit scanning to find the first denied attempt.
