@@ -95,3 +95,23 @@ Q2: Implemented protected subclass access and used early-exit scanning to find t
 Q3: Encapsulated book-copy management with private fields and boundary-safe checkout/check-in operations.
 Q4: Built a JavaBean with a write-once membership ID, isPremiumMember(), and a one-way write-only security answer.
 Q5: Created an immutable loan receipt with defensive copying, a wither method, static initialization, instanceof processing, and null-safe circulation settlement.
+
+**WEEK-6**
+
+OOP- Inheritance, Polymorphism, Runtime Polymorphism, Method Overriding, Upcasting, Downcasting, Abstract Classes, Interfaces, Abstraction, Abstract Methods, Interface Implementation
+
+
+**Practice Codes**
+
+Q1: Practiced single inheritance, constructor validation, and exception handling for batch enrollment.
+Q2: Practiced multilevel and hierarchical inheritance, `instanceof`, and polymorphism.
+Q3: Practiced method overriding, `super`, fine calculation, and defensive copying.
+Q4: Practiced runtime polymorphism, `StringBuilder`, and safe downcasting.
+Q5: Practiced static counters, final fields, method overloading, character validation, and `instanceof`. 
+
+**Assignment Codes**
+Q1: Practiced single inheritance, constructor validation, and exception handling for batch sign-up.
+Q2: Practiced multilevel and hierarchical inheritance, instanceof, and polymorphism.
+Q3: Practiced method overriding, super, late-fee calculation, and defensive copying.
+Q4: Practiced runtime polymorphism, StringBuilder, and safe downcasting.
+Q5: Practiced static counters, final fields, method overloading, character validation, and instanceof.
