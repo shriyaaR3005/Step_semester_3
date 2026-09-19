@@ -115,3 +115,13 @@ Q2: Practiced multilevel and hierarchical inheritance, instanceof, and polymorph
 Q3: Practiced method overriding, super, late-fee calculation, and defensive copying.
 Q4: Practiced runtime polymorphism, StringBuilder, and safe downcasting.
 Q5: Practiced static counters, final fields, method overloading, character validation, and instanceof.
+
+**WEEK-7**
+
+**Peactice codes**
+
+Q1: Practiced abstract classes, abstract methods, final fields, static counters, and method overriding.
+Q2: Practiced interfaces, interface implementation, and polymorphism using a common interface.
+Q3: Practiced multilevel inheritance, method overriding, super, and constructor chaining.
+Q4: Practiced abstract classes, interfaces, encapsulation, JavaBean getters/setters, and validation.
+Q5: Practiced method overloading, method overriding, upcasting, super, and runtime polymorphism.
