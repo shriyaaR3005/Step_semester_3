@@ -125,3 +125,50 @@ Q2: Practiced interfaces, interface implementation, and polymorphism using a com
 Q3: Practiced multilevel inheritance, method overriding, super, and constructor chaining.
 Q4: Practiced abstract classes, interfaces, encapsulation, JavaBean getters/setters, and validation.
 Q5: Practiced method overloading, method overriding, upcasting, super, and runtime polymorphism.
+
+**Assignment codes**
+
+Q1: interfaces, interface implementation, and polymorphism using a common interface.
+Q2: abstract classes, abstract methods, static counters, final fields, and method overriding.
+Q3: multilevel inheritance, method overriding, super, and constructor chaining.
+Q4: abstract classes, interfaces, method overloading, and compile-time polymorphism.
+Q5: hierarchical inheritance, interfaces, instanceof, safe downcasting, and runtime polymorphism.
+
+**WEEK-8**
+Abstraction, inheritance, polymorphism, encapsulation, interfaces, method overriding, class relationships, state management, validation, exception handling, date handling, collections, and transaction processing.
+
+**Practice codes**
+
+Q1: Abstraction, inheritance, polymorphism, encapsulation, method overriding, class relationships, and state management.
+Q2: Abstraction, inheritance, polymorphism, encapsulation, state transitions, validation, and exception handling.
+Q3: Abstraction, inheritance, polymorphism, encapsulation, class relationships, answer evaluation, and state management.
+Q4: Abstraction, inheritance, polymorphism, encapsulation, date handling, availability checking, reservation management, and validation.
+Q5: Interfaces, abstraction, polymorphism, encapsulation, collections, transaction processing, validation, and state management.
+
+**Assignment Codes**
+
+Q1 – Hostel Laundry Queue: Abstraction, inheritance, method overriding, state management.
+Q2 – Assignment Submission Portal: Inheritance, polymorphism, validation, exception handling, submission states.
+Q3 – Campus Premiere Ticket Counter: Encapsulation, seat booking, duplicate prevention, cancellation, state management.
+Q4 – FitZone Membership Desk: Inheritance, discounts, state transitions, conditional logic.
+Q5 – Campus Notice Broadcaster: Interfaces, polymorphism, validation, notification channels.
+
+**WEEK-9**
+
+Binary Search, 2D Arrays, Nested Loops, Sum Accumulation, Maximum Tracking, Coordinate Handling, Hashing, HashSet, Complement Search, Pair Sum, Two Pointers, Container Area Calculation, Time and Space Complexity
+
+**Practice Codes**
+
+Q1: binary search, sorted arrays, string comparison, and efficient searching using ISBN.
+Q2: 2D arrays, nested loops, sum accumulation, maximum tracking, and coordinate handling.
+Q3: arrays, HashSet, hashing, complement search, and pair sum detection.
+Q4: brute-force pair checking, HashSet, complement search, and time and space complexity comparison.
+Q5: two pointers, greedy approach, maximum area calculation, and optimized array traversal.
+
+**Assignment Codes**
+
+Q1: 2D arrays and nested loops to calculate student totals, compare marks, and find the topper using maximum tracking.
+Q2: two pointers and sorted arrays to merge token queues while preserving duplicates and ascending order.
+Q3: HashMap, frequency counting, and array traversal to find the most popular canteen order and handle ties.
+Q4: sliding window, sum accumulation, and conditional logic to count consecutive temperature blocks meeting a threshold.
+Q5: binary search, sorted arrays, index handling, and conditional logic to find the correct ticket price insertion position.
